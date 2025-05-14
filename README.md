@@ -15,8 +15,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bazi047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bazi047" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/basith k m" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="basith k m" height="30" width="40" /></a>
-<a href="https://fb.com/basith bazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="basith bazi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Basith K M" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Basith K M" height="30" width="40" /></a>
+<a href="https://fb.com/Basith Bazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Basith Bazi" height="30" width="40" /></a>
 <a href="https://instagram.com/_basith_km" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_basith_km" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/basi007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/basi007/" height="30" width="40" /></a>
 </p>
